@@ -1,6 +1,6 @@
 class ZjString {
   // app
-  static const String exit_tip = '再按一次退出';
+  static const String exit_tip = '再按一次退出应用';
   static const String home = '首页';
   static const String discovery = '发现';
   static const String hot = '热门';
